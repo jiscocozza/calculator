@@ -1,0 +1,24 @@
+.input {
+    height: 288px;
+    /*border-radius: 50px;*/
+    width: 100%;
+    border-radius: 24px;
+    /*border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;*/
+    margin-bottom: 20px;
+    /*padding: 0 50px;*/
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+    font-size: 64px;
+    background-color: #2A2F38;
+    color: white;
+    /*padding: 11px 30px 11px 11px;*/
+    /*margin: 1px solid #888888;*/
+    /*box-shadow: -1px 4px 1px 1px white;*/
+}
+
+.input div {
+    padding-right: 50px;
+}
